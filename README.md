@@ -4,6 +4,6 @@ This project is centered on independently mastering data analysis techniques by 
 ## Creation Period
 The development of this initiative is currently ongoing, spanning from September 2024 to December 2024.
 ## Supporting Materials
-The presentation documents are available in A4 PDF format. Please download the file to view the content.
+The presentation pages are available in PDF format. Please download the file to view the content.
 ## License
 [Solae Kim](https://github.com/solaecloud/). You are permitted to use, modify, and distribute this work, provided that appropriate credit is given.
