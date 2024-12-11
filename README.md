@@ -5,5 +5,7 @@ This project is centered on independently mastering data analysis techniques by 
 The development of this initiative is currently ongoing, spanning from September 2024 to December 2024.
 ## Supporting Materials
 The project includes a detailed PDF file documenting the work. Please download the file to review it.
+## Streamlit App
+https://solaekim-diabetes-analysis.streamlit.app
 ## License
 [Solae Kim](https://github.com/solaecloud/). You are permitted to use, modify, and distribute this work, provided that appropriate credit is given.
