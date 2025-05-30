@@ -6,4 +6,4 @@ The project includes a detailed PDF file documenting the work. Please download t
 ## Streamlit App
 https://solaekim-diabetes-analysis.streamlit.app
 ## License
-[Sara S. Kim](https://github.com/srsk-sci/). You are permitted to use, modify, and distribute this work, provided that appropriate credit is given.
+[Solae Kim](https://github.com/solaekim/).
