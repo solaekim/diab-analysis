@@ -5,5 +5,7 @@ This project is centered on independently mastering data analysis techniques by 
 The project includes a detailed PDF file documenting the work. Please download the file to review it.
 ## Streamlit App
 https://solaekim-diabetes-analysis.streamlit.app
+## PDF
+https://github.com/solaekim/diab-analysis/blob/main/DiabAnalysis.pdf
 ## License
 [Solae Kim](https://github.com/solaekim/).
