@@ -11,5 +11,7 @@ Ultimately, this endeavor aims to expand my knowledge of computer science by ali
 https://solaekim-diabetes-analysis.streamlit.app
 ## PDF
 https://github.com/solaekim/diab-analysis/blob/main/DiabAnalysis.pdf
+## Project Duration
+September 2, 2024 – December 12, 2024
 ## License
 [Solae Kim](https://github.com/solaekim/).
