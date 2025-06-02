@@ -12,6 +12,6 @@ https://solaekim-diabetes-analysis.streamlit.app
 ## PDF
 https://github.com/solaekim/diab-analysis/blob/main/DiabAnalysis.pdf
 ## Project Duration
-September 2, 2024 – December 12, 2024
+September 2, 2024 – December 9, 2024
 ## License
 [Solae Kim](https://github.com/solaekim/).
